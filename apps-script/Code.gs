@@ -6,8 +6,8 @@
  *
  * Note: Google may not expose the editor's email in every account/security context.
  */
-const WEBHOOK_URL = 'https://YOUR-DOMAIN.com/api/audit/webhook';
-const WEBHOOK_SECRET = 'CHANGE_ME';
+const WEBHOOK_URL = 'https://orderhubcla.vercel.app/api/audit/webhook';
+const WEBHOOK_SECRET = 'orderhub-audit-secret-2026';
 const ORDER_ID_HEADER = 'Order ID';
 
 function onOrderHubEdit(e) {
