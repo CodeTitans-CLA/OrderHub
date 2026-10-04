@@ -1,0 +1,2 @@
+ID,Employee Name,Team1,Date,Profile,Price,Client's Name,Order ID,Order Link,Sheet Link,Assign Person,Team,Status,Service Line,Delivery Date,Delivery Amount,Deli_Last_Time,Deadline,Odoo Update,Remarks
+24998,Example User,CLA_Team,September 1 2026,example_profile,$500,clientname,FO123456,,,Example User,CT,Delivered,Architecture,September 10 2026,$400,,Order Done,Yes,

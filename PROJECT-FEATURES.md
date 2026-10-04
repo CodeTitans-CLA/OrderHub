@@ -1,0 +1,21 @@
+# OrderHub v3 Feature Checklist
+
+- [x] Google Sheet master order data
+- [x] Auto refresh
+- [x] Admin CRUD
+- [x] Dynamic multi-select filters from Sheet values
+- [x] Main Team (`Team1`) and Department Team (`Team`) support
+- [x] Delivered / WIP / Cancelled / NRA / Blank metrics
+- [x] Delivered amount metric
+- [x] User personal dashboard
+- [x] $1100 default user target + progress bar
+- [x] Multiple MongoDB users
+- [x] Admin role + User role
+- [x] Google OAuth sign-in + profile image
+- [x] Gmail email/password signup + verification
+- [x] Forgot/reset password
+- [x] Admin user-to-Sheet-name mapping
+- [x] Admin target editing
+- [x] Activity log
+- [x] PWA install support
+- [x] Responsive desktop/tablet/mobile UI
